@@ -18,3 +18,4 @@ console.log(userAge)
 // Variable name should make sense 
 // Variable name doesn't accepts space
 // Variable name shouldn't have other symbols than -,_,$ 
+// Variable name shouldn't start with number
