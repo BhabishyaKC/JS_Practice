@@ -1,4 +1,5 @@
-  // LESSON 4
+// LESSON 4
+
  // NAMING CONVENION
 
  // most prefered type of variable name is camelCase
