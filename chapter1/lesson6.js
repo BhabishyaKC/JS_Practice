@@ -31,7 +31,6 @@ I am ${userAge} years old
 My hobby is ${userHobby}
 I am a ${userJob}
 I love my ${userLove}`
-
- console.log(userInfo)
+console.log(userInfo)
 
 
