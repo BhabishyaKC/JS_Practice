@@ -49,6 +49,49 @@ console.log(typeof str2)
 
 // CONVERTING TO BOOLEAN
 
+const str3 = 'hello'
+const str4 = '';
+
+
+console.log(Boolean(str3))
+console.log(Boolean(str3))
+
+
+
+const num3  = 10
+const num4 = 0
+
+
+console.log(Boolean(num3))
+console.log(Boolean(num4))
+
+
+
+// PRATICAL EXAMPLE
+
+// Example 1: Converting User input from Text Area
+
+const input = '40'
+const nums = Number(input)
+
+if (!isNaN(nums)){
+  console.log(nums + 10)
+}else{
+  console.log('Invalid Input')
+}
+
+
+// Example 2 : Checking boolean variables
+
+// CHECKING BOOLEAN VALUES FOR DIFFERENT DATA TYPES
+
+console.log(Boolean("Parkasd"))
+console.log(Boolean(''))
+console.log(Boolean(0))
+console.log(Boolean(100))
+console.log(Boolean(-1))
+
+
 
 
 
